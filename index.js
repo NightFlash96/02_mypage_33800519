@@ -35,7 +35,8 @@ http.createServer(function(request, response) {
             <p>I’m Maks, a third-year computer science student passionate about cybersecurity and software development.
                I enjoy building creative projects and learning new technologies. I want to be able to use my knowledge and skills to work on something really special.</p>
             <p>In my free time, I research and learn about interesting topics in tech, and I contribute to the Hacksmiths Tech Society at Goldsmiths. My hobbies also include: bouldering, volleyball, playing in a band and classic cars.</p>
-        </body>
+            <img src="https://cdn.discordapp.com/attachments/711007141464637570/1425494318487175249/IMG-20250329-WA0046.jpg?ex=68e7ca89&is=68e67909&hm=9006c041530c58d827c552a6c686744bf93fb88e80fe96d06b14f605646f01cc&" height="300" width="400">
+            </body>
         </html>
     `;
     
